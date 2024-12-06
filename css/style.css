@@ -1,0 +1,33 @@
+.text-blue{
+    color: #040677;
+}
+.text-gray{
+    color: #696969;
+}
+.text-green{
+    color: #1acc8d;
+}
+.bg-green{
+    background-color: #f6fdfb;
+}
+.bg-gray{
+    background-color: #f4f5fe;
+}
+.bg-blue{
+    background-color: #08005e;
+}
+.bg-green{
+    background-color: #1acc8d;
+}
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), 
+                      url("https://i.ibb.co/Jv2b4BX/hero-bg-2.jpg");
+  }
+.possition{
+    position: relative;
+}
+.possitions{
+    position: absolute;
+    top: -33px;
+    left: 150px;
+  }
