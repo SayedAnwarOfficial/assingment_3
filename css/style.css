@@ -31,3 +31,8 @@
     top: -33px;
     left: 150px;
   }
+
+ .client-bg{
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), 
+                      url("https://i.ibb.co.com/V3Zds2h/testimonials-bg.jpg");
+ } 
